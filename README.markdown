@@ -5,6 +5,7 @@ since 2006-03-11
 ### ニュース
 * Version KCAPTCHA 2.30 リリース--[KCAPTCHA対応]~
   最近SPAMが多いため、根本的な対応を考えておりました。KCAPTCHAを利用して、SPAMを受け付けないように修正しました。(元としているバージョンは、2.20になります。)q11e2をq11e2_kcaptchaに書き換えて使用してください。
+
 ### バリエーション
 * Version 2.30 q11e2_kcaptcha.inc.php.230 [kcaptcha対応版] &new{2008-01-22 (火) 23:50:00};
 * Version 2.20 q11e2.inc.php.220 [２重書込み防止機能付] &new{2007-04-14 (土) 01:00:00};
